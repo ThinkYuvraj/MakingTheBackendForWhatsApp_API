@@ -1,0 +1,26 @@
+{
+  "name": "makingthebackendforwhatsapp_api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ThinkYuvraj/MakingTheBackendForWhatsApp_API#readme",
+  "bugs": {
+    "url": "https://github.com/ThinkYuvraj/MakingTheBackendForWhatsApp_API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkYuvraj/MakingTheBackendForWhatsApp_API.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cros": "^1.1.0",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
